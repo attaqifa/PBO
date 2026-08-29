@@ -1,5 +1,5 @@
 |               | Right columns |
 | ------------- |:-------------:|
 | NIM           | 254107020039/04|
-| left bar      | right bar     |
-| left baz      | right baz     |
+| Nama          | Attaqi Fadhil Arifianto    |
+| Kelas         | TI-2G    |
