@@ -1,7 +1,7 @@
 package TugasPraktikum1;
 
 public class MainDemo {
-    
+
     public static void main(String[] args) {
         Laptop laptop1 = new Laptop();
         LampuMeja lampuMeja1 = new LampuMeja();
