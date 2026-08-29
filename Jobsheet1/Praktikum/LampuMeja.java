@@ -14,6 +14,6 @@ public class LampuMeja {
 
     public void cetakInfo() {
         System.out.println("Warna cahaya: "+  warnaCahaya);
-        System.out.println("Daya watt: " + dayaWatt + "W");
+        System.out.println("Daya watt: " + dayaWatt + "W\n");
     }
 }

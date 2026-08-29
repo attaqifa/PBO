@@ -16,6 +16,6 @@ public class Mobil extends Kendaraan {
     public void cetakInfo() {
         super.cetakInfo();
         System.out.println("jenisMobil: " + jenisMobil);
-        System.out.println("jumlahPintu: " + jumlahPintu);
+        System.out.println("jumlahPintu: " + jumlahPintu + "\n");
     }
 }

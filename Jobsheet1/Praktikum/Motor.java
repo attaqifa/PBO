@@ -17,6 +17,6 @@ public class Motor extends Kendaraan {
     public void cetakInfo() {
         super.cetakInfo();
         System.out.println("Jenis motor: " + jenisMotor);
-        System.out.println("Tipe Penggerak: " + tipePenggerak);
+        System.out.println("Tipe Penggerak: " + tipePenggerak + "\n");
     }
 }

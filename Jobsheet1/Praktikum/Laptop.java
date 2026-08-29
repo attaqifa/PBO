@@ -18,6 +18,6 @@ public class Laptop {
 
     public void cetakInfo(){
         System.out.println("Merek: " + merk);
-        System.out.println("Memori: " + memori + "GB");
+        System.out.println("Memori: " + memori + "GB\n");
     }
 }
