@@ -1,4 +1,4 @@
-package TugasPraktikum1;
+package Praktikum;
 
 public class Motor extends Kendaraan {
 

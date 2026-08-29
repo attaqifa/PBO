@@ -1,4 +1,4 @@
-package TugasPraktikum1;
+package Praktikum;
 
 public class Mobil extends Kendaraan {
     private String jenisMobil;
