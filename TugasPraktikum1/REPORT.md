@@ -1,5 +1,8 @@
+# Laporan Praktikum Pemrograman Berbasis Objek
+## Jobsheet 1
 
-| ------------- |-------------|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+## Identitas Mahasiswa
+* **Nama** : Attaqi Fadhil Arifianto
+* **NIM** : 254107020039
+* **Kelas** : TI - 2G
+* **Repository** : 
