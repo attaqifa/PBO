@@ -49,24 +49,24 @@ Jawab: Hal ini dikarenakan class RoadBike menggunakan inheritance dengan chil da
 ### Identifikasi Objek dan Struktur Class
 
 1. Kendaraan (Superclass)
-- Atribut: merk, kecepatan
-- Method: setMerk(), tambahKecepatan(), cetakInformasi()
+- Atribut: merk, tahunProduksi, kecepatan
+- Method: setMerk(), setTahunProduksi(), setKecepatan(), cetakInfo()
 
 2. Mobil (Subclass dari Kendaraan)
-- Atribut: jumlahPintu, tipeTransmisi
-- Method: setJumlahPintu(), setTipeTransmisi(), cetakInformasi()
+- Atribut: jenisMobil, jumlahPintu
+- Method: setJenisMobil(), setJumlahPintu(), cetakInfo()
 
 3. Motor (Subclass dari Kendaraan)
-- Atribut: kapasitasBagasi, tipeKopling
-- Method: setKapasitasBagasi(), setTipeKopling(), cetakInformasi()
+- Atribut: jenisMotor, tipePenggerak
+- Method: setJenisMotor(), SetTipePenggerak(), cetakInfo()
 
-4. Laptop  
-- Atribut: merk, ramSize
-- Method: setMerk(), upgradeRAM(), cetakInformasi()
+4. Laptop
+- Atribut: merk, memori
+- Method: setMerek(), setMemori(), cetakInfo()
 
-5. LampuMeja  
-- Atribut: warnaLampu, tingkatKecerahan
-- Method: setWarna(), aturKecerahan(), cetakInformasi()
+5. LampuMeja
+- Atribut: warnaCahaya, dayaWatt
+- Method: setWarnaCahaya(), setdayaWatt(), cetakInfo()
 
 ### Foto Objek
 
