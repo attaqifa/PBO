@@ -13,10 +13,10 @@
 
 ### 3.1 Percobaan 1
 **Output:**  
-![alt text](../Image/image1.png)
+![alt text](Image/image1.png)
 ### 3.2 Percobaan 2
 **Output:**  
-![alt text](../Image/image2.png)
+![alt text](Image/image2.png)
 ## 5. Pertanyaan
 
 1. Jelaskan perbedaan antara object dengan class!  
@@ -46,4 +46,4 @@ i. Terapkan setiap method untuk setiap objek yang dibuat!
 j. Contoh yang telah disebutkan pada poin  
 1.a tidak diperbolehkan dipakai dalam pengerjaan tugas praktikum ini!  
 **Output:**  
-![alt text](../Image/image3.png)
+![alt text](Image/image3.png)
