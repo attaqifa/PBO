@@ -26,7 +26,7 @@ Output:
 ## 5. Pertanyaan
 
 1. Jelaskan perbedaan antara object dengan class!  
-Jawab: Class adalah prototype, atau blueprint, atau rancangan yang mendefinisikan variable dan method-method pada seluruh objek tertentu. Class berfungsi untuk menampung isi dari program yang akan di jalankan, di dalamnya berisi atribut / type data dan method untuk menjalankan suatu program.
+Jawab: Class adalah prototype, atau blueprint, atau rancangan yang mendefinisikan variable dan method-method pada seluruh objek tertentu. Class berfungsi untuk menampung isi dari program yang akan di jalankan, di dalamnya berisi atribut / type data dan methodd untuk menjalankan suatu program.
 sedangkan Method adalah kumpulan program yang mempunyai nama. Method merupakan tempat bagi programmer untuk memecah program menjadi bagian-bagian yang kecil agar jadi lebih kompleks sehingga dapat di gunakan berulang-ulang
 
 2. Jelaskan alasan gear dan brand dapat menjadi atribut dari object Bike!  
@@ -36,7 +36,7 @@ Jawab: Gear dan brand merupakan atribut dari object Bike dikarenakan gear dan br
 Jawab: Program akan menjadi lebih fleksibel, dan Ketika ada perubahan atau penambahan fitur pada suatu bagian program, perubahan itu tidak akan langsung mengganggu keseluruhan sistem. Jadi, kode juga akan menjadi lebih terstruktur dan juga lebih efisien.
 
 4. Apakah diperbolehkan melakukan pendefinisian dua buah atribut dalam satu baris kode seperti "public String nama, alamat;"?  
-Jawab: Boleh, karena keduanya tersebut punya modifier akses yang sama. Selain itu, kedua tipe data nyapun juga sama.
+Jawab: Boleh, karena keduanya tersebut punya modifier akses yang sama. Selain itu, kedua tipe data nya pun juga sama.
 
 5. Pada class RoadBike, jelaskan alasan atribut brand, speed, dan gear tidak lagi ditulis di dalam class tersebut!  
 Jawab: Hal ini dikarenakan class RoadBike menggunakan inheritance dengan chil dari Bike. Jadi, class ini juga akan otomatis mewarisi struktur dari class Bike . Atribut dengan akses private pada class Bike hanya dapat diakses melalui method dari class induk dengan super.printInfo().
